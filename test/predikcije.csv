@@ -1,0 +1,180 @@
+naziv_kluba,naziv_protivnika,kvota_pobeda,kvota_remi,kvota_poraz
+Bayern Munich,RB Leipzig,1.75,4.50,4.00
+Bayern Munich,Freiburg,1.09,10.00,21.00
+Bayern Munich,Mainz 05,1.29,6.00,8.50
+Bayern Munich,Darmstadt 98,1.06,12.00,23.00
+Bayern Munich,Dortmund,1.75,4.33,4.00
+Bayern Munich,Heidenheim,1.11,12.00,15.00
+Bayern Munich,Koln,1.25,7.00,10.00
+Bayern Munich,Eint Frankfurt,1.30,6.00,8.50
+Bayern Munich,Stuttgart,1.57,5.25,4.50
+Bayern Munich,Wolfsburg,1.50,5.00,5.50
+Leverkusen,Koln,1.29,6.00,10.00
+Leverkusen,Wolfsburg,1.73,4.20,4.20
+Leverkusen,Freiburg,1.22,7.00,10.00
+Leverkusen,Hoffenheim,1.50,4.75,5.50
+Leverkusen,Union Berlin,1.36,5.25,7.50
+Leverkusen,Werder Bremen,1.45,5.25,5.50
+Leverkusen,Dortmund,1.60,4.50,5.00
+Leverkusen,Stuttgart,2.38,3.50,2.88
+Leverkusen,Eint Frankfurt,1.25,6.00,10.00
+Leverkusen,Bochum,1.22,7.00,11.00
+Stuttgart,Wolfsburg,1.83,3.60,4.33
+Stuttgart,Union Berlin,2.88,3.25,2.50
+Stuttgart,Hoffenheim,1.65,4.20,4.75
+Stuttgart,Heidenheim,1.62,4.20,5.25
+Stuttgart,Dortmund,2.45,3.80,2.63
+Stuttgart,Eint Frankfurt,2.40,3.50,2.88
+Stuttgart,Werder Bremen,1.30,5.50,8.00
+Stuttgart,Leverkusen,2.88,3.50,2.38
+Stuttgart,Bayern Munich,4.50,5.25,1.57
+Stuttgart,Augsburg,1.36,5.25,8.00
+RB Leipzig,Bochum,1.29,6.00,9.00
+RB Leipzig,Darmstadt 98,1.44,5.00,6.50
+RB Leipzig,Koln,1.50,4.50,6.50
+RB Leipzig,Mainz 05,1.73,4.00,4.50
+RB Leipzig,Freiburg,1.44,4.75,6.50
+RB Leipzig,Wolfsburg,1.91,4.00,3.60
+RB Leipzig,Heidenheim,1.20,7.50,12.00
+RB Leipzig,Dortmund,2.40,4.00,2.60
+RB Leipzig,Hoffenheim,1.33,5.75,8.00
+RB Leipzig,Werder Bremen,1.53,4.50,5.00
+Dortmund,Union Berlin,1.70,4.00,4.50
+Dortmund,Werder Bremen,1.29,6.50,8.50
+Dortmund,Eint Frankfurt,2.25,3.40,3.20
+Dortmund,Bayern Munich,4.00,4.33,1.75
+Dortmund,Stuttgart,2.63,3.80,2.45
+Dortmund,M'Gladbach,1.50,5.25,4.75
+Dortmund,Leverkusen,5.00,4.50,1.60
+Dortmund,RB Leipzig,2.60,4.00,2.40
+Dortmund,Augsburg,2.10,4.00,3.00
+Dortmund,Mainz 05,1.57,4.75,4.75
+Eint Frankfurt,Heidenheim,1.75,3.80,4.50
+Eint Frankfurt,Hoffenheim,3.75,3.40,1.95
+Eint Frankfurt,Dortmund,3.20,3.40,2.25
+Eint Frankfurt,Union Berlin,3.00,3.10,2.50
+Eint Frankfurt,Werder Bremen,2.50,3.50,2.70
+Eint Frankfurt,Stuttgart,2.88,3.50,2.40
+Eint Frankfurt,Augsburg,2.75,3.40,2.50
+Eint Frankfurt,Bayern Munich,8.50,6.00,1.30
+Eint Frankfurt,Leverkusen,10.00,6.00,1.25
+Eint Frankfurt,M'Gladbach,1.70,4.20,4.33
+Hoffenheim,Werder Bremen,2.50,3.60,2.63
+Hoffenheim,Eint Frankfurt,1.95,3.40,3.75
+Hoffenheim,Stuttgart,4.75,4.20,1.65
+Hoffenheim,Leverkusen,5.50,4.75,1.50
+Hoffenheim,Augsburg,2.75,3.80,2.38
+Hoffenheim,Mainz 05,1.85,3.80,3.80
+Hoffenheim,M'Gladbach,2.90,4.00,2.15
+Hoffenheim,Bochum,1.75,3.80,4.20
+Hoffenheim,RB Leipzig,8.00,5.75,1.33
+Hoffenheim,Darmstadt 98,1.50,4.75,5.75
+Freiburg,Bayern Munich,21.00,10.00,1.09
+Freiburg,Bochum,1.75,3.60,4.50
+Freiburg,Leverkusen,10.00,7.00,1.22
+Freiburg,M'Gladbach,1.95,3.80,3.60
+Freiburg,RB Leipzig,6.50,4.75,1.44
+Freiburg,Darmstadt 98,1.53,4.33,5.75
+Freiburg,Mainz 05,3.20,3.40,2.20
+Freiburg,Wolfsburg,3.20,3.60,2.15
+Freiburg,Koln,1.85,3.60,4.20
+Freiburg,Heidenheim,2.25,3.50,3.10
+Heidenheim,Eint Frankfurt,4.50,3.80,1.75
+Heidenheim,Augsburg,2.38,3.50,2.90
+Heidenheim,M'Gladbach,4.50,4.00,1.67
+Heidenheim,Stuttgart,5.25,4.20,1.62
+Heidenheim,Bayern Munich,15.00,12.00,1.11
+Heidenheim,Bochum,2.25,3.50,3.10
+Heidenheim,RB Leipzig,12.00,7.50,1.20
+Heidenheim,Darmstadt 98,1.80,3.80,4.20
+Heidenheim,Mainz 05,4.50,4.20,1.70
+Heidenheim,Freiburg,3.10,3.50,2.25
+Wolfsburg,Stuttgart,4.33,3.60,1.83
+Wolfsburg,Leverkusen,4.20,4.20,1.73
+Wolfsburg,Augsburg,2.75,3.60,2.45
+Wolfsburg,Werder Bremen,1.70,4.33,4.20
+Wolfsburg,M'Gladbach,2.70,3.80,2.30
+Wolfsburg,RB Leipzig,3.60,4.00,1.91
+Wolfsburg,Bochum,2.63,3.50,2.60
+Wolfsburg,Freiburg,2.15,3.60,3.20
+Wolfsburg,Bayern Munich,5.50,5.00,1.50
+Wolfsburg,Bayern Munich,5.50,5.00,1.50
+Augsburg,Darmstadt 98,1.80,3.75,4.50
+Augsburg,Heidenheim,2.90,3.50,2.38
+Augsburg,Wolfsburg,2.45,3.60,2.75
+Augsburg,Koln,3.50,3.75,1.95
+Augsburg,Hoffenheim,2.38,3.80,2.75
+Augsburg,Union Berlin,4.00,3.50,1.95
+Augsburg,Eint Frankfurt,2.50,3.40,2.75
+Augsburg,Werder Bremen,3.00,3.75,2.20
+Augsburg,Dortmund,3.00,4.00,2.10
+Augsburg,Stuttgart,8.00,5.25,1.36
+M'Gladbach,Mainz 05,2.15,3.60,3.20
+M'Gladbach,Koln,2.75,3.75,2.40
+M'Gladbach,Heidenheim,1.67,4.00,4.50
+M'Gladbach,Freiburg,3.60,3.80,1.95
+M'Gladbach,Wolfsburg,2.30,3.80,2.70
+M'Gladbach,Dortmund,4.75,5.25,1.50
+M'Gladbach,Hoffenheim,2.15,4.00,2.90
+M'Gladbach,Union Berlin,3.60,3.40,2.05
+M'Gladbach,Werder Bremen,2.10,3.80,3.10
+M'Gladbach,Eint Frankfurt,4.33,4.20,1.70
+Werder Bremen,Hoffenheim,2.63,3.60,2.50
+Werder Bremen,Dortmund,8.50,6.50,1.29
+Werder Bremen,Union Berlin,2.80,3.25,2.45
+Werder Bremen,Wolfsburg,4.20,4.33,1.70
+Werder Bremen,Eint Frankfurt,2.70,3.50,2.50
+Werder Bremen,Leverkusen,5.50,5.25,1.45
+Werder Bremen,Stuttgart,8.00,5.50,1.30
+Werder Bremen,Augsburg,2.20,3.75,3.00
+Werder Bremen,M'Gladbach,3.10,3.80,2.10
+Werder Bremen,RB Leipzig,5.00,4.50,1.53
+Bochum,RB Leipzig,9.00,6.00,1.29
+Bochum,Freiburg,4.50,3.60,1.75
+Bochum,Mainz 05,2.80,3.40,2.45
+Bochum,Darmstadt 98,3.00,3.50,2.30
+Bochum,Koln,2.55,3.50,2.63
+Bochum,Heidenheim,3.10,3.50,2.25
+Bochum,Wolfsburg,2.60,3.50,2.63
+Bochum,Hoffenheim,4.20,3.80,1.75
+Bochum,Union Berlin,2.55,3.40,2.75
+Bochum,Leverkusen,11.00,7.00,1.22
+Union Berlin,Dortmund,4.50,4.00,1.70
+Union Berlin,Stuttgart,2.50,3.25,2.88
+Union Berlin,Werder Bremen,2.45,3.25,2.80
+Union Berlin,Eint Frankfurt,2.50,3.10,3.00
+Union Berlin,Leverkusen,7.50,5.25,1.36
+Union Berlin,Augsburg,1.95,3.50,4.00
+Union Berlin,M'Gladbach,2.05,3.40,3.60
+Union Berlin,Bochum,2.75,3.40,2.55
+Union Berlin,Koln,1.80,3.80,4.20
+Mainz 05,M'Gladbach,3.20,3.60,2.15
+Mainz 05,Bayern Munich,8.50,6.00,1.29
+Mainz 05,Bochum,2.45,3.40,2.80
+Mainz 05,RB Leipzig,4.50,4.00,1.73
+Mainz 05,Darmstadt 98,2.25,3.50,3.10
+Mainz 05,Hoffenheim,3.80,3.80,1.85
+Mainz 05,Freiburg,2.20,3.40,3.20
+Mainz 05,Koln,2.60,3.50,2.63
+Mainz 05,Heidenheim,1.70,4.20,4.50
+Mainz 05,Dortmund,4.75,4.75,1.57
+Koln,Leverkusen,10.00,6.00,1.29
+Koln,M'Gladbach,2.40,3.75,2.75
+Koln,RB Leipzig,6.50,4.50,1.50
+Koln,Augsburg,1.95,3.75,3.50
+Koln,Bochum,2.63,3.50,2.55
+Koln,Bayern Munich,10.00,7.00,1.25
+Koln,Darmstadt 98,2.63,3.25,2.70
+Koln,Mainz 05,2.63,3.50,2.60
+Koln,Freiburg,4.20,3.60,1.85
+Koln,Union Berlin,4.20,3.80,1.80
+Darmstadt 98,Augsburg,4.50,3.75,1.80
+Darmstadt 98,RB Leipzig,6.50,5.00,1.44
+Darmstadt 98,Bayern Munich,23.00,12.00,1.06
+Darmstadt 98,Bochum,2.30,3.50,3.00
+Darmstadt 98,Mainz 05,3.10,3.50,2.25
+Darmstadt 98,Freiburg,5.75,4.33,1.53
+Darmstadt 98,Koln,2.70,3.25,2.63
+Darmstadt 98,Heidenheim,4.20,3.80,1.80
+Darmstadt 98,Wolfsburg,3.80,3.75,1.85
+Darmstadt 98,Hoffenheim,5.75,4.75,1.50

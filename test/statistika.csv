@@ -1,0 +1,180 @@
+naziv_kluba,domaci_teren,naziv_protivnika,posed_lopte,procenat_pobeda,procenat_remija,procenat_poraza
+Bayern Munich,0,RB Leipzig,65,0.0,100.0,0.0
+Bayern Munich,1,Freiburg,69,50.0,50.0,0.0
+Bayern Munich,0,Mainz 05,62,66.67,33.33,0.0
+Bayern Munich,1,Darmstadt 98,54,75.0,25.0,0.0
+Bayern Munich,0,Dortmund,51,80.0,20.0,0.0
+Bayern Munich,1,Heidenheim,72,83.33,16.67,0.0
+Bayern Munich,0,Koln,68,85.71,14.29,0.0
+Bayern Munich,0,Eint Frankfurt,64,75.0,12.5,12.5
+Bayern Munich,1,Stuttgart,38,77.78,11.11,11.11
+Bayern Munich,0,Wolfsburg,61,80.0,10.0,10.0
+Leverkusen,1,Koln,64,100.0,0.0,0.0
+Leverkusen,0,Wolfsburg,58,100.0,0.0,0.0
+Leverkusen,1,Freiburg,70,100.0,0.0,0.0
+Leverkusen,0,Hoffenheim,53,100.0,0.0,0.0
+Leverkusen,1,Union Berlin,69,100.0,0.0,0.0
+Leverkusen,0,Werder Bremen,59,100.0,0.0,0.0
+Leverkusen,1,Dortmund,69,87.5,12.5,0.0
+Leverkusen,0,Stuttgart,48,77.78,22.22,0.0
+Leverkusen,1,Eint Frankfurt,61,80.0,20.0,0.0
+Leverkusen,1,Bochum,69,81.82,18.18,0.0
+Stuttgart,1,Wolfsburg,59,100.0,0.0,0.0
+Stuttgart,0,Union Berlin,57,100.0,0.0,0.0
+Stuttgart,1,Hoffenheim,73,75.0,0.0,25.0
+Stuttgart,0,Heidenheim,68,60.0,0.0,40.0
+Stuttgart,1,Dortmund,59,66.67,0.0,33.33
+Stuttgart,0,Eint Frankfurt,43,71.43,0.0,28.57
+Stuttgart,1,Werder Bremen,58,75.0,0.0,25.0
+Stuttgart,1,Leverkusen,52,66.67,11.11,22.22
+Stuttgart,0,Bayern Munich,62,60.0,10.0,30.0
+Stuttgart,1,Augsburg,66,63.64,9.09,27.27
+RB Leipzig,1,Bochum,75,0.0,100.0,0.0
+RB Leipzig,0,Darmstadt 98,43,33.33,66.67,0.0
+RB Leipzig,1,Koln,62,50.0,50.0,0.0
+RB Leipzig,0,Mainz 05,67,40.0,40.0,20.0
+RB Leipzig,1,Freiburg,61,50.0,33.33,16.67
+RB Leipzig,0,Wolfsburg,64,42.86,28.57,28.57
+RB Leipzig,1,Heidenheim,70,50.0,25.0,25.0
+RB Leipzig,0,Dortmund,47,55.56,22.22,22.22
+RB Leipzig,1,Hoffenheim,57,60.0,20.0,20.0
+RB Leipzig,0,Werder Bremen,55,54.55,27.27,18.18
+Dortmund,1,Union Berlin,66,100.0,0.0,0.0
+Dortmund,1,Werder Bremen,57,100.0,0.0,0.0
+Dortmund,0,Eint Frankfurt,59,75.0,25.0,0.0
+Dortmund,1,Bayern Munich,49,60.0,20.0,20.0
+Dortmund,0,Stuttgart,41,50.0,16.67,33.33
+Dortmund,1,M'Gladbach,51,57.14,14.29,28.57
+Dortmund,0,Leverkusen,31,50.0,25.0,25.0
+Dortmund,1,RB Leipzig,53,44.44,22.22,33.33
+Dortmund,0,Augsburg,63,40.0,30.0,30.0
+Dortmund,1,Mainz 05,65,36.36,36.36,27.27
+Eint Frankfurt,1,Heidenheim,49,50.0,0.0,50.0
+Eint Frankfurt,0,Hoffenheim,46,66.67,0.0,33.33
+Eint Frankfurt,1,Dortmund,41,50.0,25.0,25.0
+Eint Frankfurt,0,Union Berlin,50,60.0,20.0,20.0
+Eint Frankfurt,0,Werder Bremen,51,50.0,33.33,16.67
+Eint Frankfurt,1,Stuttgart,57,42.86,28.57,28.57
+Eint Frankfurt,0,Augsburg,64,37.5,25.0,37.5
+Eint Frankfurt,1,Bayern Munich,36,44.44,22.22,33.33
+Eint Frankfurt,0,Leverkusen,39,40.0,20.0,40.0
+Eint Frankfurt,1,M'Gladbach,63,45.45,18.18,36.36
+Hoffenheim,0,Werder Bremen,52,50.0,0.0,50.0
+Hoffenheim,1,Eint Frankfurt,54,33.33,0.0,66.67
+Hoffenheim,0,Stuttgart,27,50.0,0.0,50.0
+Hoffenheim,1,Leverkusen,47,40.0,0.0,60.0
+Hoffenheim,0,Augsburg,66,33.33,16.67,50.0
+Hoffenheim,1,Mainz 05,53,28.57,28.57,42.86
+Hoffenheim,0,M'Gladbach,51,25.0,25.0,50.0
+Hoffenheim,1,Bochum,42,33.33,22.22,44.44
+Hoffenheim,0,RB Leipzig,43,30.0,20.0,50.0
+Hoffenheim,1,Darmstadt 98,45,27.27,27.27,45.45
+Freiburg,0,Bayern Munich,31,50.0,0.0,50.0
+Freiburg,1,Bochum,58,66.67,0.0,33.33
+Freiburg,0,Leverkusen,30,50.0,0.0,50.0
+Freiburg,1,M'Gladbach,59,40.0,20.0,40.0
+Freiburg,0,RB Leipzig,39,33.33,16.67,50.0
+Freiburg,1,Darmstadt 98,66,28.57,28.57,42.86
+Freiburg,0,Mainz 05,39,37.5,25.0,37.5
+Freiburg,0,Wolfsburg,42,44.44,22.22,33.33
+Freiburg,1,Koln,52,50.0,20.0,30.0
+Freiburg,0,Heidenheim,47,45.45,18.18,36.36
+Heidenheim,0,Eint Frankfurt,51,50.0,0.0,50.0
+Heidenheim,1,Augsburg,59,33.33,0.0,66.67
+Heidenheim,0,M'Gladbach,47,25.0,0.0,75.0
+Heidenheim,1,Stuttgart,32,40.0,0.0,60.0
+Heidenheim,0,Bayern Munich,28,33.33,0.0,66.67
+Heidenheim,1,Bochum,49,28.57,14.29,57.14
+Heidenheim,0,RB Leipzig,30,25.0,12.5,62.5
+Heidenheim,1,Darmstadt 98,44,33.33,11.11,55.56
+Heidenheim,0,Mainz 05,35,40.0,10.0,50.0
+Heidenheim,1,Freiburg,53,45.45,9.09,45.45
+Wolfsburg,0,Stuttgart,41,50.0,0.0,50.0
+Wolfsburg,1,Leverkusen,42,33.33,0.0,66.67
+Wolfsburg,0,Augsburg,60,25.0,0.0,75.0
+Wolfsburg,1,Werder Bremen,56,20.0,20.0,60.0
+Wolfsburg,0,M'Gladbach,53,16.67,16.67,66.67
+Wolfsburg,1,RB Leipzig,36,28.57,14.29,57.14
+Wolfsburg,0,Bochum,56,25.0,12.5,62.5
+Wolfsburg,1,Freiburg,58,22.22,11.11,66.67
+Wolfsburg,0,Darmstadt 98,37,30.0,10.0,60.0
+Wolfsburg,1,Bayern Munich,39,27.27,9.09,63.64
+Augsburg,1,Darmstadt 98,48,0.0,0.0,100.0
+Augsburg,0,Heidenheim,41,33.33,0.0,66.67
+Augsburg,1,Wolfsburg,40,50.0,0.0,50.0
+Augsburg,0,Koln,41,40.0,20.0,40.0
+Augsburg,1,Hoffenheim,34,33.33,33.33,33.33
+Augsburg,0,Union Berlin,39,28.57,42.86,28.57
+Augsburg,1,Eint Frankfurt,36,37.5,37.5,25.0
+Augsburg,0,Werder Bremen,52,33.33,33.33,33.33
+Augsburg,1,Dortmund,37,30.0,40.0,30.0
+Augsburg,0,Stuttgart,34,27.27,36.36,36.36
+M'Gladbach,1,Mainz 05,60,50.0,50.0,0.0
+M'Gladbach,0,Koln,40,33.33,33.33,33.33
+M'Gladbach,1,Heidenheim,53,50.0,25.0,25.0
+M'Gladbach,0,Freiburg,41,40.0,40.0,20.0
+M'Gladbach,1,Wolfsburg,47,50.0,33.33,16.67
+M'Gladbach,0,Dortmund,49,42.86,28.57,28.57
+M'Gladbach,1,Hoffenheim,49,50.0,25.0,25.0
+M'Gladbach,0,Union Berlin,62,44.44,22.22,33.33
+M'Gladbach,1,Werder Bremen,50,40.0,30.0,30.0
+M'Gladbach,0,Eint Frankfurt,37,36.36,27.27,36.36
+Werder Bremen,1,Hoffenheim,48,0.0,0.0,100.0
+Werder Bremen,0,Dortmund,43,0.0,0.0,100.0
+Werder Bremen,1,Union Berlin,56,25.0,0.0,75.0
+Werder Bremen,0,Wolfsburg,44,20.0,20.0,60.0
+Werder Bremen,1,Eint Frankfurt,49,16.67,33.33,50.0
+Werder Bremen,1,Leverkusen,41,14.29,28.57,57.14
+Werder Bremen,0,Stuttgart,42,12.5,25.0,62.5
+Werder Bremen,1,Augsburg,48,22.22,22.22,55.56
+Werder Bremen,0,M'Gladbach,50,20.0,30.0,50.0
+Werder Bremen,1,RB Leipzig,45,18.18,36.36,45.45
+Bochum,0,RB Leipzig,25,0.0,50.0,50.0
+Bochum,0,Freiburg,42,0.0,33.33,66.67
+Bochum,1,Mainz 05,50,0.0,50.0,50.0
+Bochum,0,Darmstadt 98,42,20.0,40.0,40.0
+Bochum,1,Koln,52,16.67,50.0,33.33
+Bochum,0,Heidenheim,51,14.29,57.14,28.57
+Bochum,1,Wolfsburg,44,25.0,50.0,25.0
+Bochum,0,Hoffenheim,58,22.22,44.44,33.33
+Bochum,1,Union Berlin,49,30.0,40.0,30.0
+Bochum,0,Leverkusen,31,27.27,36.36,36.36
+Union Berlin,0,Dortmund,34,0.0,0.0,100.0
+Union Berlin,1,Stuttgart,43,0.0,0.0,100.0
+Union Berlin,0,Werder Bremen,44,0.0,0.0,100.0
+Union Berlin,1,Eint Frankfurt,50,0.0,0.0,100.0
+Union Berlin,0,Leverkusen,31,0.0,0.0,100.0
+Union Berlin,1,Augsburg,61,0.0,14.29,85.71
+Union Berlin,1,M'Gladbach,38,12.5,12.5,75.0
+Union Berlin,0,Bochum,51,11.11,11.11,77.78
+Union Berlin,1,Koln,40,20.0,10.0,70.0
+Mainz 05,0,M'Gladbach,40,0.0,50.0,50.0
+Mainz 05,1,Bayern Munich,38,0.0,33.33,66.67
+Mainz 05,0,Bochum,50,0.0,50.0,50.0
+Mainz 05,1,RB Leipzig,33,20.0,40.0,40.0
+Mainz 05,0,Darmstadt 98,44,16.67,50.0,33.33
+Mainz 05,0,Hoffenheim,47,14.29,57.14,28.57
+Mainz 05,1,Freiburg,61,12.5,50.0,37.5
+Mainz 05,0,Koln,46,11.11,55.56,33.33
+Mainz 05,1,Heidenheim,65,10.0,50.0,40.0
+Mainz 05,0,Dortmund,35,9.09,54.55,36.36
+Koln,0,Leverkusen,36,0.0,0.0,100.0
+Koln,1,M'Gladbach,60,33.33,0.0,66.67
+Koln,0,RB Leipzig,38,25.0,0.0,75.0
+Koln,1,Augsburg,59,20.0,20.0,60.0
+Koln,0,Bochum,48,16.67,33.33,50.0
+Koln,1,Bayern Munich,32,14.29,28.57,57.14
+Koln,0,Darmstadt 98,55,25.0,25.0,50.0
+Koln,1,Mainz 05,54,22.22,33.33,44.44
+Koln,0,Freiburg,48,20.0,30.0,50.0
+Koln,0,Union Berlin,60,18.18,27.27,54.55
+Darmstadt 98,0,Augsburg,52,100.0,0.0,0.0
+Darmstadt 98,1,RB Leipzig,57,66.67,0.0,33.33
+Darmstadt 98,0,Bayern Munich,46,50.0,0.0,50.0
+Darmstadt 98,1,Bochum,58,40.0,0.0,60.0
+Darmstadt 98,1,Mainz 05,56,33.33,16.67,50.0
+Darmstadt 98,0,Freiburg,34,28.57,28.57,42.86
+Darmstadt 98,1,Koln,45,25.0,25.0,50.0
+Darmstadt 98,0,Heidenheim,56,22.22,22.22,55.56
+Darmstadt 98,1,Wolfsburg,63,20.0,20.0,60.0
+Darmstadt 98,0,Hoffenheim,55,18.18,27.27,54.55

@@ -1,0 +1,188 @@
+naziv_kluba,naziv_protivnika,kvota_pobeda,kvota_remi,kvota_poraz
+Arsenal,Sheffield Utd,1.13,8.50,19.00
+Arsenal,Newcastle Utd,2.70,3.00,2.80
+Arsenal,Burnley,1.20,6.50,15.00
+Arsenal,Brentford,1.60,3.80,5.50
+Arsenal,Wolves,1.22,6.50,12.00
+Arsenal,Luton Town,1.17,8.00,17.00
+Arsenal,Aston Villa,2.00,3.75,3.60
+Arsenal,Brighton,1.45,5.00,6.00
+Arsenal,Liverpool,2.63,3.75,2.45
+Arsenal,West Ham,1.29,6.00,9.50
+Aston Villa,Nott'ham Forest,1.91,3.75,3.75
+Aston Villa,Fulham,1.62,4.00,5.25
+Aston Villa,Tottenham,2.50,3.75,2.55
+Aston Villa,Bournemouth,2.10,4.00,3.00
+Aston Villa,Manchester City,5.00,4.20,1.62
+Aston Villa,Arsenal,3.60,3.75,2.00
+Aston Villa,Brentford,2.25,3.40,3.00
+Aston Villa,Sheffield Utd,1.20,7.00,13.00
+Aston Villa,Manchester Utd,2.90,3.75,2.25
+Aston Villa,Burnley,1.36,5.25,7.00
+Manchester City,Bournemouth,1.09,11.00,21.00
+Manchester City,Chelsea,1.73,3.75,4.75
+Manchester City,Liverpool,1.70,4.20,4.33
+Manchester City,Tottenham,1.25,6.50,10.00
+Manchester City,Aston Villa,1.62,4.20,5.00
+Manchester City,Luton Town,1.18,7.50,13.00
+Manchester City,Crystal Palace,1.17,7.50,15.00
+Manchester City,Everton,1.65,4.00,5.00
+Manchester City,Sheffield Utd,1.08,13.00,19.00
+Tottenham,Chelsea,2.30,3.60,2.90
+Tottenham,Wolves,2.30,3.50,3.10
+Tottenham,Aston Villa,2.55,3.75,2.50
+Tottenham,Manchester City,10.00,6.50,1.25
+Tottenham,West Ham,1.70,4.20,4.75
+Tottenham,Newcastle Utd,2.00,3.75,3.40
+Tottenham,Nott'ham Forest,1.67,4.20,4.75
+Tottenham,Everton,1.70,4.20,4.33
+Tottenham,Brighton,2.63,3.75,2.50
+Tottenham,Bournemouth,1.75,4.50,3.80
+West Ham,Brentford,3.30,3.50,2.15
+West Ham,Nott'ham Forest,1.80,3.75,4.50
+West Ham,Burnley,2.15,3.40,3.40
+West Ham,Crystal Palace,1.91,3.60,4.00
+West Ham,Tottenham,4.75,4.20,1.70
+West Ham,Fulham,3.25,3.50,2.20
+West Ham,Wolves,1.91,3.60,4.00
+West Ham,Manchester Utd,2.10,3.80,3.25
+West Ham,Arsenal,9.50,6.00,1.29
+West Ham,Brighton,3.10,3.50,2.20
+Brighton,Everton,2.45,3.40,2.80
+Brighton,Sheffield Utd,1.25,6.00,10.00
+Brighton,Nott'ham Forest,2.00,3.60,3.60
+Brighton,Brentford,1.70,4.20,4.50
+Brighton,Brentford,1.70,4.20,4.50
+Brighton,Burnley,1.55,4.20,5.75
+Brighton,Arsenal,6.00,5.00,1.45
+Brighton,Crystal Palace,2.25,3.25,3.40
+Brighton,Tottenham,2.50,3.75,2.63
+Brighton,West Ham,2.20,3.50,3.10
+Manchester Utd,Fulham,2.30,3.60,2.90
+Manchester Utd,Luton Town,1.29,6.00,9.50
+Manchester Utd,Everton,2.70,3.30,2.63
+Manchester Utd,Newcastle Utd,3.60,3.75,1.95
+Manchester Utd,Chelsea,2.75,3.50,2.45
+Manchester Utd,Bournemouth,1.65,4.33,4.50
+Manchester Utd,Liverpool,7.00,5.75,1.33
+Manchester Utd,West Ham,3.25,3.80,2.10
+Manchester Utd,Aston Villa,2.25,3.75,2.90
+Manchester Utd,Nott'ham Forest,2.15,3.60,3.20
+Newcastle Utd,Arsenal,2.80,3.00,2.70
+Newcastle Utd,Bournemouth,1.91,3.60,4.00
+Newcastle Utd,Chelsea,2.63,3.60,2.50
+Newcastle Utd,Manchester Utd,1.95,3.75,3.60
+Newcastle Utd,Everton,2.25,3.40,3.10
+Newcastle Utd,Tottenham,3.40,3.75,2.00
+Newcastle Utd,Fulham,1.91,3.80,4.00
+Newcastle Utd,Luton Town,1.62,4.20,5.25
+Newcastle Utd,Nott'ham Forest,1.40,5.00,6.50
+Newcastle Utd,Liverpool,7.50,5.25,1.36
+Chelsea,Tottenham,2.90,3.60,2.30
+Chelsea,Manchester City,4.75,3.75,1.73
+Chelsea,Newcastle Utd,2.50,3.60,2.63
+Chelsea,Brighton,1.57,4.33,5.25
+Chelsea,Manchester Utd,2.45,3.50,2.75
+Chelsea,Everton,2.80,3.50,2.40
+Chelsea,Sheffield Utd,1.18,7.50,13.00
+Chelsea,Wolves,2.15,3.60,3.10
+Chelsea,Crystal Palace,1.75,3.75,4.75
+Chelsea,Luton Town,1.57,4.33,5.25
+Wolves,Sheffield Utd,1.85,3.60,4.20
+Wolves,Tottenham,3.10,3.50,2.30
+Wolves,Fulham,3.00,3.30,2.38
+Wolves,Arsenal,12.00,6.50,1.22
+Wolves,Burnley,1.91,3.60,4.00
+Wolves,Nott'ham Forest,1.91,3.25,4.33
+Wolves,West Ham,4.00,3.60,1.91
+Wolves,Chelsea,3.10,3.60,2.15
+Wolves,Brentford,3.30,3.40,2.20
+Wolves,Everton,2.90,3.25,2.50
+Fulham,Manchester Utd,2.90,3.60,2.30
+Fulham,Aston Villa,5.25,4.00,1.62
+Fulham,Wolves,2.38,3.30,3.00
+Fulham,Liverpool,10.00,7.00,1.25
+Fulham,Nott'ham Forest,2.00,3.40,3.75
+Fulham,West Ham,2.20,3.50,3.25
+Fulham,Newcastle Utd,4.00,3.80,1.91
+Fulham,Burnley,1.67,3.75,5.25
+Fulham,Bournemouth,3.75,3.80,1.91
+Fulham,Arsenal,6.00,4.00,1.57
+Crystal Palace,Burnley,2.30,3.20,3.25
+Crystal Palace,Everton,2.60,3.00,2.90
+Crystal Palace,Luton Town,2.00,3.25,4.00
+Crystal Palace,West Ham,4.00,3.60,1.91
+Crystal Palace,Bournemouth,2.30,3.50,3.00
+Crystal Palace,Liverpool,6.50,4.75,1.44
+Crystal Palace,Manchester City,15.00,7.50,1.17
+Crystal Palace,Brighton,3.40,3.25,2.25
+Crystal Palace,Chelsea,4.75,3.75,1.75
+Crystal Palace,Brentford,2.05,3.30,3.75
+Aston Villa,Nott'ham Forest,1.91,3.75,3.75
+Nott'ham Forest,West Ham,4.50,3.75,1.80
+Nott'ham Forest,Brighton,3.60,3.60,2.00
+Nott'ham Forest,Everton,2.80,3.10,2.70
+Nott'ham Forest,Fulham,3.75,3.40,2.00
+Nott'ham Forest,Wolves,4.33,3.25,1.91
+Nott'ham Forest,Tottenham,4.75,4.20,1.67
+Nott'ham Forest,Bournemouth,2.90,3.40,2.45
+Nott'ham Forest,Newcastle Utd,6.50,5.00,1.40
+Nott'ham Forest,Manchester Utd,3.20,3.60,2.15
+Brentford,West Ham,2.15,3.50,3.30
+Brentford,Liverpool,7.50,5.50,1.36
+Brentford,Arsenal,5.50,3.80,1.60
+Brentford,Luton Town,1.53,4.20,6.00
+Brentford,Brighton,4.50,4.20,1.70
+Brentford,Sheffield Utd,1.73,3.80,4.50
+Brentford,Aston Villa,3.00,3.40,2.25
+Brentford,Wolves,2.20,3.40,3.30
+Brentford,Crystal Palace,3.75,3.30,2.05
+Everton,Brighton,2.80,3.40,2.45
+Everton,Crystal Palace,2.90,3.00,2.60
+Everton,Manchester Utd,2.63,3.30,2.70
+Everton,Nott'ham Forest,2.70,3.10,2.80
+Everton,Newcastle Utd,3.10,3.40,2.25
+Everton,Chelsea,2.40,3.50,2.80
+Everton,Burnley,2.25,3.50,3.20
+Everton,Tottenham,4.33,4.20,1.70
+Everton,Manchester City,5.00,4.00,1.65
+Everton,Wolves,2.50,3.25,2.90
+Luton Town,Liverpool,11.00,7.50,1.20
+Luton Town,Manchester Utd,9.50,6.00,1.29
+Luton Town,Crystal Palace,4.00,3.25,2.00
+Luton Town,Brentford,6.00,4.20,1.53
+Luton Town,Arsenal,17.00,8.00,1.17
+Luton Town,Manchester City,13.00,7.50,1.18
+Luton Town,Newcastle Utd,5.25,4.20,1.62
+Luton Town,Sheffield Utd,3.10,3.25,2.38
+Luton Town,Chelsea,5.25,4.33,1.57
+Burnley,Crystal Palace,3.25,3.20,2.30
+Burnley,Arsenal,15.00,6.50,1.20
+Burnley,West Ham,3.40,3.40,2.15
+Burnley,Sheffield Utd,1.70,3.60,5.25
+Burnley,Wolves,4.00,3.60,1.91
+Burnley,Brighton,5.75,4.20,1.55
+Burnley,Everton,3.20,3.50,2.25
+Burnley,Fulham,5.25,3.75,1.67
+Burnley,Liverpool,8.00,5.25,1.36
+Burnley,Aston Villa,7.00,5.25,1.36
+Sheffield Utd,Wolves,4.20,3.60,1.85
+Sheffield Utd,Brighton,10.00,6.00,1.25
+Sheffield Utd,Bournemouth,3.40,3.50,2.15
+Sheffield Utd,Burnley,5.25,3.60,1.70
+Sheffield Utd,Liverpool,15.00,7.50,1.18
+Sheffield Utd,Brentford,4.50,3.80,1.73
+Sheffield Utd,Chelsea,13.00,7.50,1.18
+Sheffield Utd,Aston Villa,13.00,7.00,1.20
+Sheffield Utd,Luton Town,2.38,3.25,3.10
+Sheffield Utd,Manchester City,19.00,13.00,1.08
+Bournemouth,Manchester City,21.00,11.00,1.09
+Bournemouth,Newcastle Utd,4.00,3.60,1.91
+Bournemouth,Sheffield Utd,2.15,3.50,3.40
+Bournemouth,Aston Villa,3.00,4.00,2.10
+Bournemouth,Crystal Palace,3.00,3.50,2.30
+Bournemouth,Manchester Utd,4.50,4.33,1.65
+Bournemouth,Nott'ham Forest,2.45,3.40,2.90
+Bournemouth,Fulham,1.91,3.80,3.75
+Bournemouth,Tottenham,3.80,4.50,1.75
+

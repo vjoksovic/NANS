@@ -1,0 +1,187 @@
+naziv_kluba,domaci_teren,naziv_protivnika,posed_lopte,procenat_pobeda,procenat_remija,procenat_poraza
+Arsenal,1,Sheffield Utd,67,100.0,0.0,0.0
+Arsenal,0,Newcastle Utd,58,50.0,0.0,50.0
+Arsenal,1,Burnley,63,66.67,0.0,33.33
+Arsenal,0,Brentford,64,75.0,0.0,25.0
+Arsenal,1,Wolves,57,80.0,0.0,20.0
+Arsenal,0,Luton Town,66,83.33,0.0,16.67
+Arsenal,0,Aston Villa,61,71.43,0.0,28.57
+Arsenal,1,Brighton,49,75.0,0.0,25.0
+Arsenal,0,Liverpool,48,66.67,11.11,22.22
+Arsenal,1,West Ham,73,60.0,10.0,30.0
+Aston Villa,0,Nott'ham Forest,73,0.0,0.0,100.0
+Aston Villa,1,Fulham,51,50.0,0.0,50.0
+Aston Villa,0,Tottenham,38,66.67,0.0,33.33
+Aston Villa,0,Bournemouth,62,50.0,25.0,25.0
+Aston Villa,1,Manchester City,46,60.0,20.0,20.0
+Aston Villa,1,Arsenal,39,66.67,16.67,16.67
+Aston Villa,0,Brentford,67,71.43,14.29,14.29
+Aston Villa,1,Sheffield Utd,77,62.5,25.0,12.5
+Aston Villa,0,Manchester Utd,54,55.56,22.22,22.22
+Aston Villa,1,Burnley,64,60.0,20.0,20.0
+Manchester City,1,Bournemouth,65,100.0,0.0,0.0
+Manchester City,0,Chelsea,55,50.0,50.0,0.0
+Manchester City,1,Liverpool,59,33.33,66.67,0.0
+Manchester City,1,Tottenham,55,25.0,75.0,0.0
+Manchester City,0,Aston Villa,54,20.0,60.0,20.0
+Manchester City,0,Luton Town,65,33.33,50.0,16.67
+Manchester City,1,Crystal Palace,74,28.57,57.14,14.29
+Manchester City,0,Everton,72,37.5,50.0,12.5
+Manchester City,1,Sheffield Utd,80,44.44,44.44,11.11
+Tottenham,1,Chelsea,40,0.0,0.0,100.0
+Tottenham,0,Wolves,58,0.0,0.0,100.0
+Tottenham,1,Aston Villa,62,0.0,0.0,100.0
+Tottenham,0,Manchester City,45,0.0,25.0,75.0
+Tottenham,1,West Ham,74,0.0,20.0,80.0
+Tottenham,1,Newcastle Utd,56,16.67,16.67,66.67
+Tottenham,0,Nott'ham Forest,66,28.57,14.29,57.14
+Tottenham,1,Everton,61,37.5,12.5,50.0
+Tottenham,0,Brighton,55,33.33,11.11,55.56
+Tottenham,1,Bournemouth,50,40.0,10.0,50.0
+West Ham,0,Brentford,42,0.0,0.0,100.0
+West Ham,1,Nott'ham Forest,54,50.0,0.0,50.0
+West Ham,0,Burnley,50,66.67,0.0,33.33
+West Ham,1,Crystal Palace,55,50.0,25.0,25.0
+West Ham,0,Tottenham,26,60.0,20.0,20.0
+West Ham,0,Fulham,37,50.0,16.67,33.33
+West Ham,1,Wolves,45,57.14,14.29,28.57
+West Ham,1,Manchester Utd,35,62.5,12.5,25.0
+West Ham,0,Arsenal,27,66.67,11.11,22.22
+West Ham,1,Brighton,32,60.0,20.0,20.0
+Brighton,0,Everton,79,0.0,100.0,0.0
+Brighton,1,Sheffield Utd,61,0.0,100.0,0.0
+Brighton,0,Nott'ham Forest,53,33.33,66.67,0.0
+Brighton,0,Chelsea,68,25.0,50.0,25.0
+Brighton,1,Brentford,62,40.0,40.0,20.0
+Brighton,1,Burnley,72,33.33,50.0,16.67
+Brighton,0,Arsenal,51,28.57,42.86,28.57
+Brighton,0,Crystal Palace,65,25.0,50.0,25.0
+Brighton,1,Tottenham,45,33.33,44.44,22.22
+Brighton,0,West Ham,68,30.0,50.0,20.0
+Manchester Utd,0,Fulham,55,100.0,0.0,0.0
+Manchester Utd,1,Luton Town,64,100.0,0.0,0.0
+Manchester Utd,0,Everton,49,100.0,0.0,0.0
+Manchester Utd,0,Newcastle Utd,42,75.0,0.0,25.0
+Manchester Utd,1,Chelsea,45,80.0,0.0,20.0
+Manchester Utd,1,Bournemouth,68,66.67,0.0,33.33
+Manchester Utd,0,Liverpool,32,57.14,14.29,28.57
+Manchester Utd,0,West Ham,65,50.0,12.5,37.5
+Manchester Utd,1,Aston Villa,46,55.56,11.11,33.33
+Manchester Utd,0,Nott'ham Forest,56,50.0,10.0,40.0
+Newcastle Utd,1,Arsenal,42,100.0,0.0,0.0
+Newcastle Utd,0,Bournemouth,52,50.0,0.0,50.0
+Newcastle Utd,1,Chelsea,54,66.67,0.0,33.33
+Newcastle Utd,1,Manchester Utd,58,75.0,0.0,25.0
+Newcastle Utd,0,Everton,62,60.0,0.0,40.0
+Newcastle Utd,0,Tottenham,44,50.0,0.0,50.0
+Newcastle Utd,1,Fulham,70,57.14,0.0,42.86
+Newcastle Utd,0,Luton Town,65,50.0,0.0,50.0
+Newcastle Utd,1,Nott'ham Forest,62,44.44,0.0,55.56
+Newcastle Utd,0,Liverpool,39,40.0,0.0,60.0
+Chelsea,0,Tottenham,60,100.0,0.0,0.0
+Chelsea,1,Manchester City,45,50.0,50.0,0.0
+Chelsea,0,Newcastle Utd,46,33.33,33.33,33.33
+Chelsea,1,Brighton,32,50.0,25.0,25.0
+Chelsea,0,Manchester Utd,55,40.0,20.0,40.0
+Chelsea,0,Everton,71,33.33,16.67,50.0
+Chelsea,1,Sheffield Utd,78,42.86,14.29,42.86
+Chelsea,0,Wolves,68,37.5,12.5,50.0
+Chelsea,1,Crystal Palace,63,44.44,11.11,44.44
+Chelsea,0,Luton Town,48,50.0,10.0,40.0
+Wolves,0,Sheffield Utd,61,0.0,0.0,100.0
+Wolves,1,Tottenham,42,50.0,0.0,50.0
+Wolves,0,Fulham,40,33.33,0.0,66.67
+Wolves,0,Arsenal,43,25.0,0.0,75.0
+Wolves,1,Burnley,51,40.0,0.0,60.0
+Wolves,1,Nott'ham Forest,68,33.33,16.67,50.0
+Wolves,0,West Ham,55,28.57,14.29,57.14
+Wolves,1,Chelsea,32,37.5,12.5,50.0
+Wolves,0,Brentford,40,44.44,11.11,44.44
+Wolves,1,Everton,53,50.0,10.0,40.0
+Fulham,1,Manchester Utd,45,0.0,0.0,100.0
+Fulham,0,Aston Villa,49,0.0,0.0,100.0
+Fulham,1,Wolves,60,33.33,0.0,66.67
+Fulham,0,Liverpool,39,25.0,0.0,75.0
+Fulham,1,Nott'ham Forest,63,40.0,0.0,60.0
+Fulham,1,West Ham,63,50.0,0.0,50.0
+Fulham,0,Newcastle Utd,30,42.86,0.0,57.14
+Fulham,1,Burnley,66,37.5,0.0,62.5
+Fulham,0,Bournemouth,57,33.33,0.0,66.67
+Fulham,1,Arsenal,40,40.0,0.0,60.0
+Crystal Palace,0,Burnley,33,100.0,0.0,0.0
+Crystal Palace,1,Everton,67,50.0,0.0,50.0
+Crystal Palace,0,Luton Town,61,33.33,0.0,66.67
+Crystal Palace,0,West Ham,45,25.0,25.0,50.0
+Crystal Palace,1,Bournemouth,59,20.0,20.0,60.0
+Crystal Palace,1,Liverpool,24,16.67,16.67,66.67
+Crystal Palace,0,Manchester City,26,14.29,28.57,57.14
+Crystal Palace,1,Brighton,35,12.5,37.5,50.0
+Crystal Palace,0,Chelsea,37,11.11,33.33,55.56
+Crystal Palace,1,Brentford,47,20.0,30.0,50.0
+Nott'ham Forest,1,Aston Villa,27,100.0,0.0,0.0
+Nott'ham Forest,0,West Ham,46,50.0,0.0,50.0
+Nott'ham Forest,1,Brighton,47,33.33,0.0,66.67
+Nott'ham Forest,1,Everton,61,25.0,0.0,75.0
+Nott'ham Forest,0,Fulham,37,20.0,0.0,80.0
+Nott'ham Forest,0,Wolves,32,16.67,16.67,66.67
+Nott'ham Forest,1,Tottenham,34,14.29,14.29,71.43
+Nott'ham Forest,1,Bournemouth,34,12.5,12.5,75.0
+Nott'ham Forest,0,Newcastle Utd,38,22.22,11.11,66.67
+Nott'ham Forest,1,Manchester Utd,44,30.0,10.0,60.0
+Brentford,1,West Ham,58,100.0,0.0,0.0
+Brentford,0,Liverpool,41,50.0,0.0,50.0
+Brentford,1,Arsenal,36,33.33,0.0,66.67
+Brentford,1,Luton Town,67,50.0,0.0,50.0
+Brentford,0,Brighton,38,40.0,0.0,60.0
+Brentford,0,Sheffield Utd,59,33.33,0.0,66.67
+Brentford,1,Aston Villa,33,28.57,0.0,71.43
+Brentford,1,Wolves,60,25.0,0.0,75.0
+Brentford,0,Crystal Palace,53,22.22,0.0,77.78
+Everton,1,Brighton,21,0.0,100.0,0.0
+Everton,0,Crystal Palace,33,50.0,50.0,0.0
+Everton,1,Manchester Utd,51,33.33,33.33,33.33
+Everton,0,Nott'ham Forest,39,50.0,25.0,25.0
+Everton,1,Newcastle Utd,38,60.0,20.0,20.0
+Everton,1,Chelsea,29,66.67,16.67,16.67
+Everton,0,Burnley,39,71.43,14.29,14.29
+Everton,0,Tottenham,39,62.5,12.5,25.0
+Everton,1,Manchester City,28,55.56,11.11,33.33
+Everton,0,Wolves,47,50.0,10.0,40.0
+Luton Town,1,Liverpool,27,0.0,100.0,0.0
+Luton Town,0,Manchester Utd,36,0.0,50.0,50.0
+Luton Town,1,Crystal Palace,39,33.33,33.33,33.33
+Luton Town,0,Brentford,33,25.0,25.0,50.0
+Luton Town,1,Arsenal,34,20.0,20.0,60.0
+Luton Town,1,Manchester City,35,16.67,16.67,66.67
+Luton Town,1,Newcastle Utd,35,28.57,14.29,57.14
+Luton Town,0,Sheffield Utd,49,37.5,12.5,50.0
+Luton Town,1,Chelsea,52,33.33,11.11,55.56
+Burnley,1,Crystal Palace,67,0.0,0.0,100.0
+Burnley,0,Arsenal,37,0.0,0.0,100.0
+Burnley,1,West Ham,50,0.0,0.0,100.0
+Burnley,1,Sheffield Utd,63,25.0,0.0,75.0
+Burnley,0,Wolves,49,20.0,0.0,80.0
+Burnley,0,Brighton,28,16.67,16.67,66.67
+Burnley,1,Everton,61,14.29,14.29,71.43
+Burnley,0,Fulham,34,25.0,12.5,62.5
+Burnley,1,Liverpool,32,22.22,11.11,66.67
+Burnley,0,Aston Villa,36,20.0,10.0,70.0
+Sheffield Utd,1,Wolves,39,100.0,0.0,0.0
+Sheffield Utd,0,Brighton,39,50.0,50.0,0.0
+Sheffield Utd,1,Bournemouth,46,33.33,33.33,33.33
+Sheffield Utd,0,Burnley,37,25.0,25.0,50.0
+Sheffield Utd,1,Liverpool,25,20.0,20.0,60.0
+Sheffield Utd,1,Brentford,41,33.33,16.67,50.0
+Sheffield Utd,0,Chelsea,22,28.57,14.29,57.14
+Sheffield Utd,0,Aston Villa,23,25.0,25.0,50.0
+Sheffield Utd,1,Luton Town,51,22.22,22.22,55.56
+Sheffield Utd,0,Manchester City,20,20.0,20.0,60.0
+Bournemouth,0,Manchester City,35,0.0,0.0,100.0
+Bournemouth,1,Newcastle Utd,48,50.0,0.0,50.0
+Bournemouth,0,Sheffield Utd,54,66.67,0.0,33.33
+Bournemouth,1,Aston Villa,38,50.0,25.0,25.0
+Bournemouth,0,Crystal Palace,41,60.0,20.0,20.0
+Bournemouth,0,Manchester Utd,32,66.67,16.67,16.67
+Bournemouth,0,Nott'ham Forest,66,71.43,14.29,14.29
+Bournemouth,1,Fulham,43,75.0,12.5,12.5
+Bournemouth,0,Tottenham,50,66.67,11.11,22.22
